@@ -1,5 +1,7 @@
 # to-do-app
 
+We were a team of three, Julia, Ben and Lidia, and this is our Potion to your Notion.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
